@@ -6,8 +6,8 @@ class Animal {
 	public static void main(String arg[])
 	{
 		
-		System.out.println("hello");
-		//hello
+		System.out.println("hello java");
+		
 	}
 	
 
